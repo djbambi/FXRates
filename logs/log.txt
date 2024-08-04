@@ -1,0 +1,1 @@
+2024-08-04 19:09:21+0100 - Davids-MacBook-Pro.local - INFO - Sending get request to ECB api.
